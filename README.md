@@ -1,1 +1,3 @@
-# electronics-supplier-v2
+# Electronics Supplier V2
+
+> Ah shit, here we go again
